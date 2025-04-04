@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif))]
 <h1 align="center">Hi 👋, I'm Pranshu Chugh</h1>
 <h3 align="center">A self-motivated Software Developer with over a year of experience in turning ideas into scalable and efficient solutions. Passionate about full-stack development, automation, and system design, I have contributed to optimizing workflows, saving manual hours, and improving platform stability.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNtdTZib3ExNXBkZW5yNTUweXp3cmdwejJ2Y21wM2NwZWo1ZnZqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif">
